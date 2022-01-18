@@ -14,12 +14,12 @@ El siguiente paso es crear por una parte una licencia y por otro crear la base d
 
 Para crear la licencia, nos colocamos en el apartado develop y License Manager. Aquí creamos una licencia con losvalores por defecto, y le damos un nombre.
 
-![licencia]()
+![](https://github.com/alu0101244488/Interfaces-Inteligentes-AR/blob/main/img/lcencias.png?raw=true)
 
 El siguiente paso es colocarse en el apartado de Target Manager donde primero creamos una base de datos y luego introducimos las imagenes que vamos a emplear como targets. Podemos buscamos unos markers. En este caso se hace uso de algunos que se encuentran como ejemplo en OpenCV:
 [https://docs.opencv.org/3.4/d5/dae/tutorial_aruco_detection.html](https://docs.opencv.org/3.4/d5/dae/tutorial_aruco_detection.html)
 
-![basededatos]()
+![](https://github.com/alu0101244488/Interfaces-Inteligentes-AR/blob/main/img/basededatos.png?raw=true)
 
 Hay que tener en cuenta que los markers deben de encontrarse porque si no puede darnos el siguiente error.
 
