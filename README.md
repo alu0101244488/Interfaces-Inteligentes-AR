@@ -23,7 +23,7 @@ El siguiente paso es colocarse en el apartado de Target Manager donde primero cr
 
 Hay que tener en cuenta que los markers deben de encontrarse porque si no puede darnos el siguiente error.
 
-![error]()
+![](https://github.com/alu0101244488/Interfaces-Inteligentes-AR/blob/main/img/formatomarker.png?raw=true)
 
 Una vez procesados nos dirá cual es la calidad de nuestro marker.
 
@@ -44,7 +44,7 @@ El último paso es importar algún modelo 3d y colocarlo como hijo de image targ
 
 Una vez hecho estos pasos, cambiamos la plataforma de desarrollo a android y pulsamos en build para generar la apk y poder así instalar la apk en nuestro dispositivo.
 
-![entorno]()
+![](https://github.com/alu0101244488/Interfaces-Inteligentes-AR/blob/main/img/entorno.png?raw=true)
 
 ### Ejecución en dispositivo móvil
 
